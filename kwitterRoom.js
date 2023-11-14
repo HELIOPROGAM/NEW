@@ -1,14 +1,7 @@
 
 //ADICIONE SEUS LINKS FIREBASE
-const firebaseConfig = {
-  apiKey: "AIzaSyA21y0CO0RtMGElW9NxIq6wZ5ak162Liaw",
-  authDomain: "testekwitter.firebaseapp.com",
-  projectId: "testekwitter",
-  storageBucket: "testekwitter.appspot.com",
-  messagingSenderId: "364995332721",
-  appId: "1:364995332721:web:0de8c39165ffdfe29269d0",
-  measurementId: "G-09MT67BKZQ"
-};
+
+
 
   userName = localStorage.getItem("userName");
 
